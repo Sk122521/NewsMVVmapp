@@ -56,5 +56,8 @@ class ArticleFragment : Fragment() {
         }
 
     }
+    println("hdhdhhdhdh")
     djhjdhhdhdhh
+    ggdggdgdgdgq
+
 }
