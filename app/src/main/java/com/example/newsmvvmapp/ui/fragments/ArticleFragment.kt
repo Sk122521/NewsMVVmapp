@@ -56,4 +56,5 @@ class ArticleFragment : Fragment() {
         }
 
     }
+    djhjdhhdhdhh
 }
