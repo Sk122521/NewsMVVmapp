@@ -38,6 +38,8 @@ class ArticleFragment : Fragment() {
 
 
         return binding.root
+
+        //github - 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
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
