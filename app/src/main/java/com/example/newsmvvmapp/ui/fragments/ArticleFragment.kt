@@ -57,8 +57,5 @@ class ArticleFragment : Fragment() {
 
     }
 
-    println("Saket lumar is here")
-    djhjdhhdhdhh
-    ggdggdgdgdgq
 
 }
